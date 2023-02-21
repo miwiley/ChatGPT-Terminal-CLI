@@ -21,4 +21,4 @@ python3 gpt_cli.py
 #### inspired by a few other CLI junkies
 
 #### fork away, copy/paste
--- but if you come with something good, contrib!!
+-- but if you come up with something good, contrib!!
