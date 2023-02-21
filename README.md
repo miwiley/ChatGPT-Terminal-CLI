@@ -16,5 +16,9 @@ python3 gpt_cli.py
 4. Load a file or proceed with chat.
 5. Select an engine
 6. Rate a response --> append rating -->chat log
+7. Change creativity = temperature={select}
 
 #### inspired by a few other CLI junkies
+
+#### fork away, copy/paste
+-- but if you come with something good, contrib!!
