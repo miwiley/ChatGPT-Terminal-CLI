@@ -1,9 +1,10 @@
 # ChatGPT-Terminal-CLI
 Open AI / ChatGPT Full Command Line/Terminal with session:context.
+Keeps session alive after 5min
 
 ### Taking a bit of a minimalist approach
 
-### only depedency [pip3 install openai]
+### only depedency = pip3 install openai, time
 
 ### Do your thing!
 python3 gpt_cli.py
@@ -15,3 +16,5 @@ python3 gpt_cli.py
 4. Load a file or proceed with chat.
 5. Select an engine
 6. Rate a response --> append rating -->chat log
+
+#### inspired by a few other CLI junkies
