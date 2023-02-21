@@ -1,7 +1,7 @@
 # GPT-Terminal(CLI)-Context
-Open AI / ChatGPT Full Command Line/Terminal with session:context.
-With type effect
-Keeps session alive after 5min
+--Open AI / ChatGPT Full Command Line/Terminal with session:context.
+--With type effect
+--Keeps session alive after 5min
 
 ### Taking a bit of a minimalist approach
 
