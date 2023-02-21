@@ -26,6 +26,7 @@ python3 gpt_cli.py
 
 #### Context example:
 name(Human): where is texas
+
 AI (GPT): 
 
 Texas is located in the south-central part of the United States. It is bordered by Oklahoma to the north, Arkansas to the northeast, Louisiana to the east, New Mexico to the west, and Mexico to the south. The state capital of Texas is Austin.
