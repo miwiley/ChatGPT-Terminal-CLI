@@ -4,7 +4,7 @@ Keeps session alive after 5min
 
 ### Taking a bit of a minimalist approach
 
-### only depedency = pip3 install openai, time
+### only depedencies = pip3 install openai, time
 
 ### Do your thing!
 python3 gpt_cli.py
