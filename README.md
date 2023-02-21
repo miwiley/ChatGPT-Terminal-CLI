@@ -1,10 +1,11 @@
 # ChatGPT-Terminal-CLI
 Open AI / ChatGPT Full Command Line/Terminal with session:context.
 
+## Minimalist approach!
 
-# pip3 install openai
+## pip3 install openai
 
-# Do your thing!
+## Do your thing!
 python3 gpt_cli.py
 
 #Things that could be done:
